@@ -1,0 +1,9 @@
+{
+  "name": "Uninspected.Editor",
+  "references": [
+    "Uninspected"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
